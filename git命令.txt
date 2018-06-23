@@ -1,0 +1,8 @@
+git init   与远程仓库简历关系
+git status 查看状态，提示可执行操作
+
+git clone url   克隆远程仓库项目
+
+git add .   
+git commit -m '注释' 
+git push -u origin master   提交本地文件到远程仓库，提交文件可执行这三个命令，最终提交到远程仓库是这条命令
